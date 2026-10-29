@@ -1,0 +1,13 @@
+{
+  "title": "Z-City Russian Language (Oppai178)",
+  "type": "effects",
+  "tags": ["roleplay", "realism"],
+  "ignore": [
+    "*.md",
+    "*.txt",
+    ".git/*",
+    "*.psd",
+    "*.pdn",
+    "workshop/*"
+  ]
+}
